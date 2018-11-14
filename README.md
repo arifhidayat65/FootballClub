@@ -1,6 +1,6 @@
 # FootballClub
-*Information Football Club
-*Update Score
-*List Transfer Player
-*Next Match
-*Last Match
+* Information Football Club
+* Update Score
+* List Transfer Player
+* Next Match
+* Last Match
